@@ -1,0 +1,7 @@
+; D2GDK_Client.def : Declares the module parameters for the DLL.
+
+LIBRARY      "D2GDK_Client"
+DESCRIPTION  'D2GDK_Client Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
